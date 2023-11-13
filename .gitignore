@@ -1,0 +1,22 @@
+# maven
+target/
+
+# netbeans
+nb-configuration.xml
+nbproject/
+nbactions.xml
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# vs code
+.classpath
+.project
+.settings/
+.vscode/
+.factorypath
+
+# intellij idea
+.idea/
